@@ -27,9 +27,11 @@ Currently, I am architecting legal AI and solar analytics platforms at **[Data F
     <img src="https://img.shields.io/badge/Portfolio_Website-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Website" />
   </a>
   &nbsp;
-  <a href="mailto:obaidkhanok1018@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://wa.me/923446286836">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white " alt="WhatsApp" />
   </a>
+
+</div>
 
 </div>
 
